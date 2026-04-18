@@ -4,8 +4,8 @@
     <title>URL Rotator</title>
     <script>
         var urls = [
-            "https://displayboard.advancedscoreboard.com/?c=1b965a5f-18d7-11f1-a023-005056bb8667&d=a37e4191-18d7-11f1-a023-005056bb8667&k=Abo7bskzKzFiMq7vZO4PaYeVCBE7PSbwUkPqseFg&v=1&mb=1&da=",
-            "https://displayboard.advancedscoreboard.com/?c=1b965a5f-18d7-11f1-a023-005056bb8667&d=a37e4191-18d7-11f1-a023-005056bb8667&k=r6YxvNDiyeHXuHEkF3FdivlRhK3o9X8CCEblIMEP&v=1&mb=1&da="
+            "http://displayboard.advancedscoreboard.com/?c=1b965a5f-18d7-11f1-a023-005056bb8667&d=a37e4191-18d7-11f1-a023-005056bb8667&k=Abo7bskzKzFiMq7vZO4PaYeVCBE7PSbwUkPqseFg&v=1&mb=1&da=",
+            "http://displayboard.advancedscoreboard.com/?c=1b965a5f-18d7-11f1-a023-005056bb8667&d=a37e4191-18d7-11f1-a023-005056bb8667&k=r6YxvNDiyeHXuHEkF3FdivlRhK3o9X8CCEblIMEP&v=1&mb=1&da="
         ];
         var seconds = 20;
         var index = 0;
